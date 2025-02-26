@@ -1,0 +1,16 @@
+.card-body{
+ background-color: grey;
+}
+img {
+ width: 170px;  
+ height: 40px;
+
+}
+.card-header {
+text-align: center;
+background-color: darkgrey;
+}
+.gambar2 {
+ height:auto;
+ width:100vw;
+}
